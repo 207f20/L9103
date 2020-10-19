@@ -1,4 +1,4 @@
-package sol;
+package mvcdemo;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
