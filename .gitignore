@@ -5,3 +5,6 @@
 .project
 bin
 temp
+.idea/
+out/
+*.iml
